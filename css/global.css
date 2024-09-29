@@ -38,3 +38,9 @@ img {
     max-width: initial !important;
   }
 }
+
+@media (max-width: 375px) {
+  .hero-perfil {
+    display: none;
+  }
+}
